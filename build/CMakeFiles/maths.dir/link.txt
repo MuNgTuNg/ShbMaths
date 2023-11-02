@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/maths.dir/maths.cpp.o -o maths 
